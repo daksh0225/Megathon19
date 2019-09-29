@@ -1,16 +1,11 @@
 # flutter_app3
 
-A new Flutter project.
+Demo Flutter project.
 
-## Getting Started
+## Working
 
-This project is a starting point for a Flutter application.
+This project is a demo app made for megathon 19 for a Flutter application.
+It fetches data from a static database hosted on Firebase.
+You can't run this app on your system as it requires access to that Firebase project.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Anyways you can understand the code and then create a sample database according to the app for which you can run this app.
